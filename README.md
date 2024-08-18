@@ -1,3 +1,7 @@
+## LayerZero Foundry Starterkit
+
+This is a starterkit for LayerZero Foundry. It is a simple message passing smart contract that demonstrates how to use Foundry to test, deploy and interact with LayerZero's OApp contracts and is based off the [LayerZero Foundry Cookbook](https://docs.layerzero.network/cookbook/using-foundry#pure-foundry) documentation.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
